@@ -1,2 +1,2 @@
 # topics
-Medigy Topics listing from Ontology (OWL) FIles
+Medigy Topics listing from Ontology (OWL) FIles.
